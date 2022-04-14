@@ -1,0 +1,57 @@
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 600px;
+  padding: 20px;
+  width: 100%;
+}
+
+.image-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  width: 50px;
+  height: 50px;
+}
+
+.image-button i {
+  color: black;
+  font-size: 35px;
+  transition: all 0.25s ease-in;
+  border: solid transparent;
+  background-color: transparent;
+  padding: 10px;
+}
+
+/* .image-button-icon.active {
+  color: red
+} */
+
+.image-button.active i {
+  color: red;
+}
+
+.image-button:hover i {
+  color: orange;
+}
+
+/* .button-home {
+  width: 50px;
+  height: 28px;
+}
+
+.button-bookmark {
+  color: black;
+  font-size: 35px;
+}
+
+.button-pen {
+  width: 50px;
+}
+
+.button-profil {
+  width: 48px;
+  height: 28px;
+} */

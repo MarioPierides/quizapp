@@ -1,0 +1,23 @@
+.tagliste {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style-type: none;
+  background-color: transparent;
+  margin: 0;
+  padding: 0;
+}
+
+.tagborder {
+  border: solid silver;
+  border-radius: 0px;
+  padding: 10px;
+}
+
+.createtags {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style: none;
+  border: solid silver;
+}

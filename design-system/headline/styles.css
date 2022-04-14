@@ -1,0 +1,13 @@
+.mobile-grid {
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 50px auto 50px;
+  overflow-y: auto;
+}
+
+h1 {
+  font-size: 2.5rem;
+  background-color: whitesmoke;
+  margin: 0px;
+  text-align: center;
+}
