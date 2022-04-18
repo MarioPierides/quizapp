@@ -1,0 +1,19 @@
+.details {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 30px;
+  margin: 30px;
+}
+
+.my-pic {
+  border: 2px solid silver;
+  border-radius: 100px;
+}
+
+.about-my-self {
+  border: 2px solid whitesmoke;
+  justify-content: center;
+  gap: 30px;
+  margin: 30px;
+}
