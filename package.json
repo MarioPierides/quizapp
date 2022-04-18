@@ -1,0 +1,22 @@
+{
+  "name": "quizapp",
+  "version": "1.0.0",
+  "description": "a small app to learn web technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioPierides/quizapp.git"
+  },
+  "author": "Mario Pierides",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarioPierides/quizapp/issues"
+  },
+  "homepage": "https://github.com/MarioPierides/quizapp#readme",
+  "devDendencies": {
+    "htmlhint": "^1.1.4"
+  }
+}
